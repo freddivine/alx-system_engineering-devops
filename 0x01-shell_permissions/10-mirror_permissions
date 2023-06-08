@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=betty olleh
+chmod 0454 olleh
