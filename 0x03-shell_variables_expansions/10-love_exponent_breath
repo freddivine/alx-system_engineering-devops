@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(((BREADTH**2) * LOVE))
+echo $(((BREATH**2) * LOVE))
